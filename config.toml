@@ -1,9 +1,9 @@
-baseURL = "https://www.aitlitech.com/"
+baseURL = "https://www.artiltech.com/"
 languageCode = "en-us"
 theme = "chaklam"
 publishDir = "docs"
 
-title = "AI Brainlab"
+title = "Artil Tech"
 
 [params]
     logo = "/img/logo.png"
