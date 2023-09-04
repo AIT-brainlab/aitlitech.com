@@ -1,4 +1,4 @@
-baseURL = "https://www.aibrainlab.co/"
+baseURL = "https://www.aitlitech.com/"
 languageCode = "en-us"
 theme = "chaklam"
 publishDir = "docs"
