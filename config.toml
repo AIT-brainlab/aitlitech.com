@@ -15,13 +15,15 @@ title = "Artil Tech"
   weight = 10
   params = { section='#hero' }
 [[menu.main]]
-  name = 'Members'
-  pageRef = '/members'
+  name = 'Partners'
+  pageRef = '/'
   weight = 20
+  params = { section='#clients' }
 [[menu.main]]
-  name = 'Demo'
-  pageRef = '/demo'
+  name = 'Portfolio'
+  pageRef = '/'
   weight = 30
+  params = { section='#portfolio' }
 [[menu.main]]
   name = 'Contact'
   pageRef = '/'
